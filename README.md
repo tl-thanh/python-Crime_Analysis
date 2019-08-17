@@ -1,5 +1,5 @@
-# W200Fall18_GroupProject_Jon-Thanh-Eddie
+# This repository holds the python code for the analysis of crimes data in Chicago.
 
-This is a repository for W200 Fall 2018, Project 2. 
-<br />
-Team members: Jonathan Hilton, Thanh Le, Eddie Zhu.
+Team members:  Jonathan Hilton, Thanh Le, Eddie Zhu
+
+**Data driven approach to analyze correlations in the dataset and provide actionable recommendations.**
